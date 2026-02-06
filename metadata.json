@@ -1,0 +1,7 @@
+{
+  "name": "Health Paw",
+  "description": "An integrated Smart Health & Wellness Platform for humans and pets, featuring AI monitoring, environmental tracking, and specialized health guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
